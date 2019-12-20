@@ -1,0 +1,25 @@
+{
+    "name": "TransitFeeds",
+    "description": "The best source of open official public transit data. Maintained by @qzervaas + others",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26209-rta-service-alerts.jpg",
+    "tags": [
+        "general data",
+        "have api",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/transitfeeds\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TransitFeeds"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/transitfeeds.com"
+        }
+    ]
+}
